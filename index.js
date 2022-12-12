@@ -19,5 +19,3 @@ const timer = new Timer(durationInput, startButton, pauseButton, {
         console.log('Timer finished');
     }
 });
-
-// 100пикс * 20сек / 20сек - 100пикс = 
